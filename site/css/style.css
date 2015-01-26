@@ -92,6 +92,53 @@ a[href^="tel:"] {
 .allContent {
     padding-top: 74px;
 }
+
+
+
+#biathlon
+{
+    padding-top: 80px;
+    margin-top: -80px;
+    
+}
+
+#marksmanship
+{
+    padding-top: 80px;
+    margin-top: -80px;
+    
+}
+
+#band {
+    
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#drill {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#air-studies {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#duke-of-edinburgh {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#effective-speaking {
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+#summer-camps {
+    padding-top: 80px;
+    margin-top: -80px;
+}
 /* Global properties ======================================================== */
 html, body { padding:0; margin:0; height:100%;}
 
