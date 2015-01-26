@@ -204,6 +204,17 @@ h3.v2{
 	margin-bottom: -12px;
 }
 
+h4{
+	font:13px/18px Arial, sans-serif;
+	color:#2A5388; 
+	margin-top: 5px;
+}
+
+h4.v2{
+	margin-top: 14px;
+	margin-bottom: 2px;
+}
+
 .lh21{line-height: 21px;}
 .lh18{line-height: 18px;}
 .txt1, .txt2{
